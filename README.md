@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjsong98&count_bg=%23F3AA60&title_bg=%23EF6262&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ![garden's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsong98&show_icons=true&theme=vue)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wjddnjs0306)](https://solved.ac/wjddnjs0306/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jswsn1526)](https://solved.ac/jswsn1526/)
 
 # 💪Skills
 ### Platforms & Languages
